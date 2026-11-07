@@ -1,0 +1,11 @@
+loja: FLASH STORE
+bannersOriginaisPreservados: True
+ligasOriginais: 9
+nba: 30
+nfl: 20
+colecoesIniciais: 4
+colecoesFinais: [3, 3, 3]
+bannerFormula1: True
+semInstagram: True
+chuteirasNaoClicaveis: ['ADIDAS FUTSAL', 'PUMA FUTSAL']
+whatsapp: https://wa.me/5517996346201
